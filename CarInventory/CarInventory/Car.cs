@@ -10,8 +10,8 @@ namespace CarInventory
     public class Car : IHasHandling
 
     {
-        public string name { get; set; }
-
+        public string name;
+        public CarType carType;
         protected int topSpeed;
         protected int acceleration;
         protected int handling;

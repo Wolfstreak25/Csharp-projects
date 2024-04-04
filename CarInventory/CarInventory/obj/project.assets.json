@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarInventory.csproj",
+      "projectUniqueName": "E:\\Vaibhav Data\\C# Tutorials\\Csharp-projects\\CarInventory\\CarInventory\\CarInventory.csproj",
       "projectName": "CarInventory",
-      "projectPath": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarInventory.csproj",
+      "projectPath": "E:\\Vaibhav Data\\C# Tutorials\\Csharp-projects\\CarInventory\\CarInventory\\CarInventory.csproj",
       "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-      "outputPath": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\obj\\",
+      "outputPath": "E:\\Vaibhav Data\\C# Tutorials\\Csharp-projects\\CarInventory\\CarInventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\himan\\AppData\\Roaming\\NuGet\\NuGet.Config",

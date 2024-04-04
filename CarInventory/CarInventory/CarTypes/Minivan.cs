@@ -8,6 +8,7 @@ namespace CarInventory
             topSpeed = 1;
             handling = 1;
             acceleration = 1;
+            carType = CarType.Minivan;
         }
 
         public override void SetAcceleration(int _acceleration)

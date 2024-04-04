@@ -7,6 +7,7 @@
             topSpeed = 1;
             handling = 1;
             acceleration = 1;
+            carType = CarType.SUV;
         }
 
         public override void SetAcceleration(int _acceleration)
