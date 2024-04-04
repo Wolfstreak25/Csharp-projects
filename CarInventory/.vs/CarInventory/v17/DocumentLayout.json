@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\interface\\ihashandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\interface\\ihashandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\interface\\ihasnitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\interface\\ihasnitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\cartypes\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cartypes\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\cartypes\\supercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cartypes\\supercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\cartypes\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cartypes\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\carinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\carinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|e:\\vaibhav data\\c# tutorials\\carinventory\\carinventory\\carinventory\\cartypes\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CEA41-F482-4559-8792-42E2A38FC103}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cartypes\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHasHandling.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Interface\\IHasHandling.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Interface\\IHasHandling.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Interface\\IHasHandling.cs",
+              "RelativeToolTip": "CarInventory\\Interface\\IHasHandling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:40:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHasNitro.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Interface\\IHasNitro.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Interface\\IHasNitro.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Interface\\IHasNitro.cs",
+              "RelativeToolTip": "CarInventory\\Interface\\IHasNitro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:18:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarInventory.csproj",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarInventory.csproj",
+              "RelativeDocumentMoniker": "CarInventory\\CarInventory.csproj",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarInventory.csproj",
+              "RelativeToolTip": "CarInventory\\CarInventory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T10:17:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SUV.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\SUV.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarTypes\\SUV.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\SUV.cs",
+              "RelativeToolTip": "CarInventory\\CarTypes\\SUV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:46:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperCar.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\SuperCar.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarTypes\\SuperCar.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\SuperCar.cs",
+              "RelativeToolTip": "CarInventory\\CarTypes\\SuperCar.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:45:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minivan.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\Minivan.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarTypes\\Minivan.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\Minivan.cs",
+              "RelativeToolTip": "CarInventory\\CarTypes\\Minivan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:45:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\Sedan.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarTypes\\Sedan.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\CarTypes\\Sedan.cs",
+              "RelativeToolTip": "CarInventory\\CarTypes\\Sedan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:44:38.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Car.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Car.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Car.cs",
+              "RelativeToolTip": "CarInventory\\Car.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:44:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Program.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Program.cs",
+              "ToolTip": "E:\\Vaibhav Data\\C# Tutorials\\CarInventory\\CarInventory\\CarInventory\\Program.cs",
+              "RelativeToolTip": "CarInventory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:12:00.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
